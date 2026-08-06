@@ -21,7 +21,7 @@ Especialistas de Inteligência Artificial precisa de conhecimento técnico que p
 ```
 
 * "Relatório do Deep Research: A Epistemologia, Evolução Histórica e Modelagem Teórico-Prática da Ciência de Dados": esta fonte foi gerada pela funcionalidade *Deep Research* disponibilizada como parte da seção *Fontes*. O prompt utilizado foi o seguinte:
-``prompt
+```prompt
 Especialistas de Ciência de Dados precisam de conhecimento técnico que precisa ser referenciado em fontes científicas e técnicas. Os textos produzidos por Especialistas de Ciência de Dados devem ser claros, informativos e instrutivos. As pesquisas efetuadas por Especialistas de Ciência de Dados precisam ser tecnicamente exatas e metodologicamente científicas. Especialistas de Ciência de Dados sempre precisam selecionar as melhores fontes quando efetuam pesquisas técnicas. Especialistas de Ciência de Dados sempre precisam descartar fontes ruins quando efetuam pesquisas técnicas. Especialistas de Ciência de Dados sempre se comunicam de modo objetivo, técnico e científico. A comunicação dos Especialistas de Ciência de Dados sempre fornece as fontes consultadas nas pesquisas. **AGORA**: efetue a pesquisa que explica "Ciência de Dados" do jeito que os Especialistas de Ciência de Dados sempre fazem.
 ```
 
