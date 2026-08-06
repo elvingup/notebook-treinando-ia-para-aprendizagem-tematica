@@ -120,6 +120,8 @@ TEMA = [ " Os motivos para usar Inteligência Artificial Generativa para realiza
 
 ## Mini-guia de Estudo
 
+[Acesse o caderno](#acesso-ao-caderno-temático) e use o recursos abaixo para iniciar o seu estudo: 
+
 ### Resumo estruturado:
 O Relatório ["Epistemologia, Evolução e Governança da Ciência de Dados e Inteligência Artificial"](./epistemologia_evolucao_governanca.pdf) é um *Briefing Doc* padronizado da seção *Estúdio*. O idioma selecionado é *Português (Brasil)* e o prompt é o *default* fornecido pela própria plataforma; enfim, eis o prompt utilizado:
 ```prompt
